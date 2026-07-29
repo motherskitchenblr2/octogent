@@ -11,7 +11,7 @@
   "dependencies": {
     "@octogent/core": "workspace:*",
     "node-pty": "^1.1.0",
-    "ws": "^8.19.0"
+    "ws": "^8.21.0"
   },
   "devDependencies": {
     "tsx": "^4.20.6"

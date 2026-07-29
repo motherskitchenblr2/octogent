@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "node-pty": "^1.1.0",
-    "ws": "^8.19.0"
+    "ws": "^8.21.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
